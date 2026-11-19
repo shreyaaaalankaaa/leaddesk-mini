@@ -36,7 +36,7 @@ admin@leaddesk.dev
 **Password**
 
 ```
-(Shared privately in submission)
+Available on request
 ```
 
 ---
