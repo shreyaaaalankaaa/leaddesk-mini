@@ -132,7 +132,6 @@ The frontend and backend are deployed independently, following a production-styl
 │   └── package.json
 │
 ├── docs/
-├── submission-kit/
 ├── docker-compose.yml
 ├── render.yaml
 └── README.md
