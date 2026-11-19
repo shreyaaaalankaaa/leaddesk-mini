@@ -25,6 +25,16 @@ https://github.com/shreyaaaalankaaa/leaddesk-mini
 
 ---
 
+# Screenshots
+
+**Public landing page and project intake form**
+
+![Public landing page and project intake form](docs/screenshots/leaddesk-home.png)
+
+**Admin dashboard: metrics, search, status filters**
+
+![Admin dashboard: metrics, search, status filters](docs/screenshots/leaddesk-admin.png)
+
 # Demo Credentials
 
 **Email**
